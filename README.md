@@ -3,9 +3,9 @@ Assignment from Data Structures Course
 
 Assignment includes:
 
-String reverser
-Palindrome checker
-Power function
-Digit sum
-Binary search function
+string reverser,
+palindrome checker,
+power function,
+digit sum,
+binary search function,
 And more
